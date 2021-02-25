@@ -1,0 +1,4 @@
+O prodesso de TDD de testes funcionais possui um pequeno pipiline e um de seus passos é o próprio processo de TDD dos testes de unidade.
+Primeiro escrevemos um teste funcional, em seguida rodados ele. Se ele não passar (não vai) passamos para o TDD de teste de unidade. Então escrevemos testes de unidade, rodadamos, escrevemos código e refatoramos.
+Quando esse TDD de unidade acabar continuamos o teste funcional. Se não passar voltamos ao código com o TDD de unidade. Se passar verificamos se ele precisa de refatoração.
+
